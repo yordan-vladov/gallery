@@ -43,59 +43,59 @@
             <!-- Filterable Images / Cards Section -->
             <div class="row px-2 mt-4 gap-3" id="filterable-cards">
                 <div class="card p-0" data-name="nature">
-                    <img src="images/nature-1.jpg" alt="img" />
+                    <img src="images/gallery-1.png" alt="img" />
                     <div class="card-body">
                         <h6 class="card-title">Mountains</h6>
-                        <p class="card-text">Lorem ipsum dolor..</p>
+                        <p class="card-text">A beautiful mountain landscape.</p>
                     </div>
                 </div>
                 <div class="card p-0" data-name="nature">
-                    <img src="images/nature-2.jpg" alt="img" />
+                    <img src="images/gallery-2.png" alt="img" />
                     <div class="card-body">
                         <h6 class="card-title">Lights</h6>
-                        <p class="card-text">Lorem ipsum dolor..</p>
+                        <p class="card-text">Dangling lights from a tree.</p>
                     </div>
                 </div>
                 <div class="card p-0" data-name="nature">
-                    <img src="images/nature-3.jpg" alt="img" />
+                    <img src="images/gallery-3.png" alt="img" />
                     <div class="card-body">
                         <h6 class="card-title">Nature</h6>
-                        <p class="card-text">Lorem ipsum dolor..</p>
+                        <p class="card-text">Flowing river in the forest.</p>
                     </div>
                 </div>
                 <div class="card p-0" data-name="cars">
-                    <img src="images/car-1.jpg" alt="img" />
+                    <img src="images/gallery-4.png" alt="img" />
                     <div class="card-body">
                         <h6 class="card-title">Retro</h6>
-                        <p class="card-text">Lorem ipsum dolor..</p>
+                        <p class="card-text">Retro Cadillac. The iconic car of the 1950s.</p>
                     </div>
                 </div>
                 <div class="card p-0" data-name="cars">
-                    <img src="images/car-2.jpg" alt="img" />
+                    <img src="images/gallery-5.png" alt="img" />
                     <div class="card-body">
                         <h6 class="card-title">Fast</h6>
-                        <p class="card-text">Lorem ipsum dolor..</p>
+                        <p class="card-text">Red Ferrari Roma.</p>
                     </div>
                 </div>
                 <div class="card p-0" data-name="cars">
-                    <img src="images/car-3.jpg" alt="img" />
+                    <img src="images/gallery-6.png" alt="img" />
                     <div class="card-body">
                         <h6 class="card-title">Classic</h6>
-                        <p class="card-text">Lorem ipsum dolor..</p>
+                        <p class="card-text">Black GNX.</p>
                     </div>
                 </div>
                 <div class="card p-0" data-name="people">
-                    <img src="images/people-1.jpg" alt="img" />
+                    <img src="images/gallery-7.png" alt="img" />
                     <div class="card-body">
-                        <h6 class="card-title">Men</h6>
-                        <p class="card-text">Lorem ipsum dolor..</p>
+                        <h6 class="card-title">Man</h6>
+                        <p class="card-text">Smiling Man.</p>
                     </div>
                 </div>
                 <div class="card p-0" data-name="people">
-                    <img src="images/people-2.jpg" alt="img" />
+                    <img src="images/gallery-8.png" alt="img" />
                     <div class="card-body">
                         <h6 class="card-title">Girl</h6>
-                        <p class="card-text">Lorem ipsum dolor..</p>
+                        <p class="card-text">Smiling Girl.</p>
                     </div>
                 </div>
             </div>
