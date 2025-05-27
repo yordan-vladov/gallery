@@ -1,0 +1,23 @@
+version: "3.8"
+
+services:
+  db:
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: gallery
+    volumes:
+      - db_data:/var/lib/mysql
+      - ./gallery.sql:/docker-entrypoint-initdb.d/gallery.sql
+  web:
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      - ./:/var/www/html
+    depends_on:
+      - db
+
+volumes:
+  db_data:
